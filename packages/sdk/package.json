@@ -81,7 +81,7 @@
     "axios": "^1.6.8",
     "circomlibjs": "^0.1.7",
     "ethers": "^6.12.1",
-    "ffjavascript": "^0.2.63",
+    "ffjavascript": "^0.3.0",
     "idb-keyval": "^6.2.1",
     "js-sha3": "^0.8.0",
     "node-fetch": "^2.7.0",
