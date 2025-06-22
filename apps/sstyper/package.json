@@ -33,7 +33,7 @@
     "snarkjs": "^0.7.4",
     "tslog": "^4.9.2",
     "typescript": "^5.4.5",
-    "yargs": "^17.7.2"
+    "yargs": "^18.0.0"
   },
   "devDependencies": {
     "@types/yargs": "^17.0.32",
