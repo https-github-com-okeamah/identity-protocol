@@ -34,7 +34,7 @@
     "long": "^5.2.3",
     "protobufjs": "^7.3.0",
     "ts-node": "^10.9.2",
-    "ts-proto": "^1.174.0",
+    "ts-proto": "^2.7.7",
     "ts-protoc-gen": "^0.15.0",
     "tslog": "^4.9.2",
     "typescript": "^5.4.5"
