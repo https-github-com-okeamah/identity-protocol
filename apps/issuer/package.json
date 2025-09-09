@@ -29,7 +29,7 @@
     "dotenv-flow": "^3.3.0",
     "dts-gen": "^0.10.2",
     "express": "^4.19.2",
-    "google-protobuf": "^3.21.2",
+    "google-protobuf": "^4.0.0",
     "jsonfile": "^6.1.0",
     "long": "^5.2.3",
     "protobufjs": "^7.3.0",
