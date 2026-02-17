@@ -78,7 +78,7 @@
     "@galxe-identity-protocol/evm-contracts": "workspace:^",
     "@iden3/js-crypto": "^1.1.0",
     "@iden3/js-merkletree": "^1.2.0",
-    "axios": "^1.6.8",
+    "axios": "^1.13.5",
     "circomlibjs": "^0.1.7",
     "ethers": "^6.12.1",
     "ffjavascript": "^0.2.63",
